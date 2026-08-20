@@ -1,7 +1,6 @@
 > [!IMPORTANT]
-> This repository is archived and no longer maintained. The eve Slack Agent
-> Template now lives in
-> [`vercel/eve-examples/eve-slack-agent-template`](https://github.com/vercel/eve-examples/tree/main/eve-slack-agent-template).
+> This repository is archived and no longer maintained. The maintained eve
+> templates now live in [`vercel/eve-examples`](https://github.com/vercel/eve-examples).
 
 This is a Slack agent template for [eve](https://beta.eve.dev).
 
